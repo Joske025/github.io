@@ -1,0 +1,5 @@
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://placekitten.com/200/200" alt="Mačka 1" />
+    <img src="https://placekitten.com/201/200" alt="Mačka 2" />
+    <img src="https://placekitten.com/202/200" alt="Mačka 3" />
+</div>
